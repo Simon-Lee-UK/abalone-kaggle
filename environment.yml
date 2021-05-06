@@ -13,6 +13,7 @@ dependencies:
   - seaborn
 # ML
   - scikit-learn
+  - shap
 # jupyterlab
   - jupyterlab
   - jupyterlab-git
