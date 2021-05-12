@@ -137,3 +137,6 @@ dmypy.json
 
 # Data directory
 data/
+
+# Model directory
+models/
